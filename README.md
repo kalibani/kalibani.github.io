@@ -13,3 +13,7 @@
 
 **About Me**
 >Hi, I'm a Fullstack Web Developer in Jakarta, Indonesia. I am an enthusiast coder. Interested in me? just touch me in <kalibani.ka@gmail.com>
+
+**Future Plans**
+
+>Rencana pembangunan website ini untuk kedepan ialah menambah beberapa fitur dan fungsi sehingga tampak lebih responsive.
