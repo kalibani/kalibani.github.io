@@ -2,7 +2,7 @@
 >Ini adalah situs portfolio pribadi saya. Situs ini berisikan tentang daftar skill yang saya miliki dan project yang telah saya kerjakan. Ini adalah gambaran diri dan bagaimana saya bekerja. So, this is my [Portfolio](https://kalibani.github.io). Cheers \m/
 
 **Used Tags & Syntaxes**
->Berikut Adalah daftar Tag HTML yang saya gunakan:
+>Berikut Adalah Sebagian Tag HTML yang saya gunakan:
 >1. Tag < > adalah Tag pembuka sebuah dokumen html yang didalamnya berisi elemen yang kita perlukan.
 >2. Tag < / > Merupakan Tag Penutup dari sebuah elemen HTML.
 >3. Tag < !Doctype > Yaitu untuk mendefinisikan informasi tipe dokumen.
